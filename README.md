@@ -1,4 +1,4 @@
-# bike_buyers_analysis
+# Análise de Dados Excel - Loja de Bicicletas 
 Projeto para estudo de análise de dados com Excel. (Data Cleaning, Filters, Pivot Tables, Formulas, Visualization.)
 
 O arquivo pode ser baixado deste repositório ou acessado através do link:
